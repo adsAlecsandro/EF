@@ -1,3 +1,3 @@
 # EF
 
-.NET classes exercises! Just classes.
+Just an exercise.
